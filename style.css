@@ -1,6 +1,13 @@
 section{
     margin-bottom: 100px;
 }
+.color-microsoft{
+    color: #0067b8;
+}
+.bg-color-microsoft{
+    background-color: #0067b8 !important;
+    color: #fff !important;
+}
 #btt {
     display: none;
     position: fixed;
@@ -40,4 +47,13 @@ section{
 }
 .free-box{
     height: 200px;
+}
+.footer-costom{
+    font-size: 12px !important;
+}
+.nav-font{
+    font-size: 13px !important;
+}
+.footer-color{
+    color: #616161;
 }
