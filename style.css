@@ -1,0 +1,43 @@
+section{
+    margin-bottom: 100px;
+}
+#btt {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+
+}
+
+#btt:hover {
+    background-color: #555;
+}
+.carousel-txt{
+
+    top: 135px;
+    left: 90px;
+}
+.carousel-txt-short{
+
+    top: 363px;
+    left: calc(10px + 0.1vw);
+    right: calc(10px + 0.1vw);
+}
+.edge-pos{
+    top: 100px;
+}
+.edge-pos-short{
+
+    top: 380px;
+    left: calc(10px + 0.1vw);
+    right: calc(10px + 0.1vw);
+}
+.carousel-image{
+    width: 100%;
+    min-height: 400px;
+
+}
+.free-box{
+    height: 200px;
+}
